@@ -1,0 +1,78 @@
+
+/* General styling */
+body {
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+    color: #333333;
+    margin: 20px;
+}
+
+/* Return Home link */
+a {
+    color: green;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Header */
+header {
+    background-color: lightgreen;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    color: darkgreen;
+}
+
+/* Sections */
+section {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid lightgray;
+}
+
+/* Section headings */
+h2 {
+    color: darkgreen;
+}
+
+/* Vocabulary list */
+ul {
+    padding-left: 25px;
+}
+
+li {
+    margin-bottom: 10px;
+    padding: 8px;
+}
+
+/* Practice input */
+input {
+    padding: 10px;
+    border: 1px solid gray;
+}
+
+/* Buttons */
+button {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkgreen;
+}
+
+/* Audio */
+audio {
+    width: 100%;
+}
